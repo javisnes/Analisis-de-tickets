@@ -21,6 +21,8 @@ El análisis detallado muestra que los problemas de **Hardware** son críticos e
 ![Mapa de Calor](Mapa_de_Color.png)
 
 ## 🔍 Indicadores Principales (KPIs)
+Aqui hay unos proncipales KPIs basicos para la demostracion
+![Indicadores (KPIs)](Indicadores (KPIs))
 
 ## 🚀 Conclusión
 A través de la limpieza de datos, se logró recuperar el 90% de la información útil del dataset original, permitiendo a la gerencia tomar decisiones basadas en datos reales y no en suposiciones.
